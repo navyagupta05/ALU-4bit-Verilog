@@ -19,6 +19,9 @@ The ALU performs arithmetic, logical, shift, and comparison operations.
 * Testbench verifies all ALU operations
 * Includes edge case testing (division by zero)
 * Waveforms validated in Vivado simulator
+  
+**Simulation Output**
+![Waveform](sim/waveform.jpeg)
 
 **Results**
 * Correct functionality observed for all operations
